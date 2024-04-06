@@ -9,7 +9,13 @@ module.exports = {
       'lighter-green' : '#f1f8f6',
       'mud' : '#f3f1e7',
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        spotify: ['Spotify', 'sans'],
+        sanata : ['Sanata', 'sans'],
+        sodo : ['SoDoSans', 'sans'],
+      },
+    },
   },
   plugins: [],
 }
