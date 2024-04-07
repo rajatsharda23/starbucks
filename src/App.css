@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: 'Spotify';
-  src: url('./assets/fonts/891bac4bf2cf726a4a3ccf8560d7c300.woff') format('woff');
+  src: url('./assets/fonts/SoDoSans-SemiBold.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'Sanata';
-  src: url('./assets/fonts/Santana-Black.ttf') format('truetype');
+  font-family: 'SpotifyLight';
+  src: url('./assets/fonts/SoDoSans-Regular.woff') format('woff');
 }
 
 @font-face {
