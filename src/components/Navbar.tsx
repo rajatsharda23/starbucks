@@ -15,10 +15,10 @@ const Navbar = () => {
             </div>
 
             <div className='relative'>
-                    <div className='bg-white w-full flex justify-center pt-7 pb-7'>
-                        REWARDS
-                    </div>
-                    <div className='absolute w-full h-2 bg-green'></div>
+                <div className='bg-white w-full flex justify-center pt-7 pb-7'>
+                    REWARDS
+                </div>
+                <div className='absolute w-full h-2 bg-green'></div>
             </div>
 
             <div className='p-2 ml-2 mr-16'>

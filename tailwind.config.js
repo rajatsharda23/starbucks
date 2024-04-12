@@ -6,7 +6,7 @@ module.exports = {
       fontFamily: {
         spotify: ['Spotify', 'sans'],
         SpotifyLight : ['SpotifyLight'],
-        sodo : ['SoDoSans', 'sans'],
+        SpotifyLighter : ['SpotifyLighter'],
       },
       colors: {
         'dark-green' : '#1e3932',

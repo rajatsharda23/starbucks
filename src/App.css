@@ -13,6 +13,6 @@
 }
 
 @font-face {
-  font-family: 'SoDoSans';
-  src: url('./assets/fonts/SoDoSans-Black.ttf') format('truetype');
+  font-family: 'SpotifyLighter';
+  src: url('./assets/fonts/SoDoSans-Light.woff') format('woff');
 }
